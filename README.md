@@ -1,5 +1,3 @@
-![Picture1](https://user-images.githubusercontent.com/105023580/167268187-0110c0bc-a2d8-4d11-85da-40d91ca644ca.png)
-
 # Interactive Fire Analytics Report System
 
 
@@ -16,11 +14,9 @@ This project delivers the interactive fire analytics report to the user. It is a
 - Sasi
 
 
-
-
 ## Architecture
 
-https://imgur.com/ruYGefC
+![Picture1](https://user-images.githubusercontent.com/105023580/167268187-0110c0bc-a2d8-4d11-85da-40d91ca644ca.png)
 
 UI Framework:
 ---------------
@@ -61,3 +57,4 @@ Finally, the results are consolidated in an HTML template and get delivered to t
 
 **brewlytics:** Data Pre Processing
 
+## Final Report
