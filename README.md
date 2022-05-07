@@ -60,6 +60,7 @@ Finally, the results are consolidated in an HTML template and get delivered to t
 ## Final Report
 
 ![Screenshot (26)](https://user-images.githubusercontent.com/105023580/167268474-7b68df87-fba7-4695-8b54-6bcb5eb02a8a.png)
-![Screenshot (27)](https://user-images.githubusercontent.com/105023580/167268476-b2c7a630-54c0-4c13-8af6-a18d3a2444f9.png)
-![Screenshot (28)](https://user-images.githubusercontent.com/105023580/167268477-0eb2572d-c282-4bb8-b53c-515d9f4e460c.png)
 ![Screenshot (30)](https://user-images.githubusercontent.com/105023580/167268479-00b2ccaa-8d22-4c43-b1e1-5f1fc076bd63.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/105023580/167268477-0eb2572d-c282-4bb8-b53c-515d9f4e460c.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/105023580/167268476-b2c7a630-54c0-4c13-8af6-a18d3a2444f9.png)
+
