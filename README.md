@@ -66,3 +66,21 @@ Finally, the results are consolidated in an HTML template and get delivered to t
 ![Screenshot (28)](https://user-images.githubusercontent.com/105023580/167268477-0eb2572d-c282-4bb8-b53c-515d9f4e460c.png)
 ![Screenshot (27)](https://user-images.githubusercontent.com/105023580/167268476-b2c7a630-54c0-4c13-8af6-a18d3a2444f9.png)
 
+## API Reference
+
+#### Get FIRMS fire accident data.
+
+```https
+  GET /api/jobs
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `m` | `string` | **Required**. Your API key |
+| `AOI_7df0e2d1-e66b-44f7-8576-fb070d6f1c62` | `string` | **Required**. Geometric Point |
+| `Date` | `string` | **Required**. Date |
+
+
+#### Required Headers
+
+X-REQUEST-TOKEN - This is specific to the workflow. The workflow shared as a Rest API in brewlytics validate this header.
